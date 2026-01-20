@@ -321,30 +321,50 @@ Features:
 
 <div align="center">
 
-```mermaid
-mindmap
-  root((Krushna<br/>Sonawane))
-    Machine Learning
-      Regression
-      Classification
-      Feature Engineering
-      Model Evaluation
-    Backend Development
-      FastAPI
-      REST APIs
-      SQLAlchemy
-      Authentication
-    Data Science
-      EDA
-      Statistics
-      Hypothesis Testing
-      Data Visualization
-    Tools & Tech
-      Git/GitHub
-      SQL Databases
-      Streamlit
-      Cloud Deployment
-```
+<table>
+<tr>
+<td width="25%" align="center">
+
+### 🤖 Machine Learning
+- Regression
+- Classification
+- Feature Engineering
+- Model Evaluation
+- 90% Accuracy Models
+
+</td>
+<td width="25%" align="center">
+
+### ⚡ Backend Development
+- FastAPI
+- REST APIs
+- SQLAlchemy
+- Authentication
+- API Deployment
+
+</td>
+<td width="25%" align="center">
+
+### 📊 Data Science
+- EDA
+- Statistics
+- Hypothesis Testing
+- Data Visualization
+- Pandas & NumPy
+
+</td>
+<td width="25%" align="center">
+
+### 🛠️ Tools & Tech
+- Git/GitHub
+- SQL Databases
+- Streamlit
+- Cloud Deployment
+- VS Code
+
+</td>
+</tr>
+</table>
 
 </div>
 
