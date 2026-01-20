@@ -415,17 +415,14 @@ mindmap
 
 ---
 
-## 🎯 Quick Stats
+## 🎯 Developer Status
 
 <div align="center">
 
-```text
-🔥 Coding Streak        📊 Total Contributions    ⭐ GitHub Stars
-   Active Developer        Building Projects         Open Source
-
-💻 Languages Used       🚀 Projects Built         🎓 Learning
-   Python, SQL, C++        5+ Major Projects         AI & ML Focus
-```
+| **🚀 Projects & Code** | **🧠 Knowledge Base** | **💼 Experience** |
+|:---:|:---:|:---:|
+| ![Projects](https://img.shields.io/badge/Projects-5+_Shipped-6366f1?style=for-the-badge&logo=github&logoColor=white) | ![Focus](https://img.shields.io/badge/Focus-AI_%26_ML-blueviolet?style=for-the-badge&logo=openai&logoColor=white) | ![Experience](https://img.shields.io/badge/Role-Data_Science_Intern-success?style=for-the-badge&logo=linkedin&logoColor=white) |
+| ![Code](https://img.shields.io/badge/Code-Python_%26_SQL-yellow?style=for-the-badge&logo=python&logoColor=white) | ![Learning](https://img.shields.io/badge/Learning-Deep_Learning-ff69b4?style=for-the-badge&logo=jupyter&logoColor=white) | ![Status](https://img.shields.io/badge/Status-Open_to_Work-important?style=for-the-badge&logo=handshake&logoColor=white) |
 
 </div>
 
