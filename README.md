@@ -321,50 +321,31 @@ Features:
 
 <div align="center">
 
-<table>
-<tr>
-<td width="25%" align="center">
-
-### 🤖 Machine Learning
-- Regression
-- Classification
-- Feature Engineering
-- Model Evaluation
-- 90% Accuracy Models
-
-</td>
-<td width="25%" align="center">
-
-### ⚡ Backend Development
-- FastAPI
-- REST APIs
-- SQLAlchemy
-- Authentication
-- API Deployment
-
-</td>
-<td width="25%" align="center">
-
-### 📊 Data Science
-- EDA
-- Statistics
-- Hypothesis Testing
-- Data Visualization
-- Pandas & NumPy
-
-</td>
-<td width="25%" align="center">
-
-### 🛠️ Tools & Tech
-- Git/GitHub
-- SQL Databases
-- Streamlit
-- Cloud Deployment
-- VS Code
-
-</td>
-</tr>
-</table>
+```mermaid
+%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#6366f1','primaryTextColor':'#fff','primaryBorderColor':'#4f46e5','lineColor':'#818cf8','secondaryColor':'#a5b4fc','tertiaryColor':'#c7d2fe','background':'#1e1b4b','mainBkg':'#312e81','secondBkg':'#4c1d95','textColor':'#e0e7ff','fontSize':'16px'}}}%%
+mindmap
+  root((Krushna<br/>Sonawane))
+    Machine Learning
+      Regression
+      Classification
+      Feature Engineering
+      Model Evaluation
+    Backend Development
+      FastAPI
+      REST APIs
+      SQLAlchemy
+      Authentication
+    Data Science
+      EDA
+      Statistics
+      Hypothesis Testing
+      Data Visualization
+    Tools & Tech
+      Git/GitHub
+      SQL Databases
+      Streamlit
+      Cloud Deployment
+```
 
 </div>
 
