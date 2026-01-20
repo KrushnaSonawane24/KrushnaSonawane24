@@ -431,7 +431,13 @@ mindmap
 
 <div align="center">
 
-![Pac-Man Graph](https://raw.githubusercontent.com/KrushnaSonawane24/KrushnaSonawane24/output/pacman.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KrushnaSonawane24/KrushnaSonawane24/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KrushnaSonawane24/KrushnaSonawane24/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/KrushnaSonawane24/KrushnaSonawane24/output/pacman-contribution-graph.svg">
+</picture>
+
+<sub>_Generated with [Pac-Man Contribution Graph](https://abozanona.github.io/pacman-contribution-graph/)_</sub>
 
 </div>
 
