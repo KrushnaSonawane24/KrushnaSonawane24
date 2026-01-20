@@ -431,6 +431,8 @@ mindmap
 
 <div align="center">
 
+[![Generate Pacman Game](https://github.com/KrushnaSonawane24/KrushnaSonawane24/actions/workflows/pacman.yml/badge.svg)](https://github.com/KrushnaSonawane24/KrushnaSonawane24/actions/workflows/pacman.yml)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KrushnaSonawane24/KrushnaSonawane24/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KrushnaSonawane24/KrushnaSonawane24/output/pacman-contribution-graph.svg">
