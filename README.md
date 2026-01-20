@@ -395,21 +395,33 @@ mindmap
 
 ---
 
-## 🏆 GitHub Trophies
+## 🎯 Quick Stats
 
 <div align="center">
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=KrushnaSonawane24&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7)
+```text
+🔥 Coding Streak        📊 Total Contributions    ⭐ GitHub Stars
+   Active Developer        Building Projects         Open Source
+
+💻 Languages Used       🚀 Projects Built         🎓 Learning
+   Python, SQL, C++        5+ Major Projects         AI & ML Focus
+```
 
 </div>
 
 ---
 
-## 📅 Contribution Calendar
+## 🌟 Achievements Unlocked
 
 <div align="center">
 
-![Contribution Graph](https://ghchart.rshah.org/6366f1/KrushnaSonawane24)
+| 🏆 Achievement | 📝 Description | ✅ Status |
+|---------------|----------------|-----------|
+| **ML Master** | Built ML model with 90% accuracy | Completed |
+| **API Developer** | Created multiple FastAPI projects | Completed |
+| **Full Stack** | Built complete AI story generator | Completed |
+| **Data Scientist** | Completed TCS & EduSkills internships | Completed |
+| **Problem Solver** | Solving real-world problems with code | In Progress |
 
 </div>
 
