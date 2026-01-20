@@ -44,15 +44,7 @@ class KrushnaSonawane:
         self.education = "B.E. in AI & Data Science"
         self.college = "Guru Gobind Singh College of Engineering"
         self.graduation_year = 2026
-        self.role = "Python Developer | Data Science Intern"
-        
-    def current_work(self):
-        return {
-            "company": "NetLeap IT & Training Solutions",
-            "position": "Data Science Intern",
-            "focus": ["Machine Learning", "Data Analysis", "API Development"],
-            "achievement": "90% accuracy in ML recommendation system"
-        }
+        self.role = "AI & Data Science Student | Python Developer"
     
     def skills(self):
         return {
@@ -66,6 +58,9 @@ class KrushnaSonawane:
     
     def interests(self):
         return ["AI/ML", "Data Science", "Backend Development", "Problem Solving"]
+    
+    def current_focus(self):
+        return ["Building ML Projects", "FastAPI Development", "Learning Deep Learning"]
 
 me = KrushnaSonawane()
 print(f"👋 Hello! I'm {me.name}, passionate about {', '.join(me.interests())}")
