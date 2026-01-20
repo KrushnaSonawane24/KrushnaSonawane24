@@ -265,7 +265,26 @@ Features:
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=KrushnaSonawane24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9" alt="GitHub Stats" width="48%" />
-<img src="https://streak-stats.demolab.com?user=KrushnaSonawane24&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak" width="48%" />
+
+<table width="48%">
+  <tr>
+    <td align="center" colspan="2"><b>🔥 GitHub Streak</b></td>
+  </tr>
+  <tr>
+    <td align="center">📅 <b>Current Streak</b></td>
+    <td align="center">🏆 <b>Longest Streak</b></td>
+  </tr>
+  <tr>
+    <td align="center">Active Developer</td>
+    <td align="center">Building Daily</td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">📊 <b>Total Contributions</b></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">Check GitHub Graph Below ⬇️</td>
+  </tr>
+</table>
 
 </div>
 
