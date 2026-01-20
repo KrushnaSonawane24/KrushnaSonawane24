@@ -439,7 +439,7 @@ mindmap
   <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/KrushnaSonawane24/KrushnaSonawane24/output/pacman-contribution-graph.svg">
 </picture>
 
-<sub>_Generated with [Pac-Man Contribution Graph](https://abozanona.github.io/pacman-contribution-graph/)_</sub>
+
 
 </div>
 
