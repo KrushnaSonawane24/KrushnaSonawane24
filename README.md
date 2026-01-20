@@ -427,6 +427,16 @@ mindmap
 
 ---
 
+## 🎮 Pac-Man Eating My Contributions
+
+<div align="center">
+
+![Pac-Man Graph](https://raw.githubusercontent.com/KrushnaSonawane24/KrushnaSonawane24/output/pacman.svg)
+
+</div>
+
+---
+
 <div align="center">
 
 ### 🌟 "Code is like humor. When you have to explain it, it's bad." – Cory House
